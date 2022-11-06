@@ -28,7 +28,7 @@
 * ##### Precision: The precison score is also the same as the score from random oversampling (.0097)
 ![image](https://user-images.githubusercontent.com/105329532/200196091-6e97b849-860e-4e4d-96ad-ccdf7b63ca68.png)
 
-
+---
 ### Undersampling 
 * ##### The Balance Acurracy Score:  The accuracy score is at almost 58% which is a lower score in comparison to oversampling the data
 * ##### Precision: The precion score is .0081 which is also lower in comparison to oversampling.
